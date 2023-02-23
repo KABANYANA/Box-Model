@@ -1,0 +1,8 @@
+.main{
+  border: dotted 2px grey;  
+}
+.child{
+  border: solid 2px blue; 
+   padding: 20px;
+   margin: 5%;
+}
